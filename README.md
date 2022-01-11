@@ -1,6 +1,6 @@
 # PCST
 
-![PCST-01](https://user-images.githubusercontent.com/89359094/149028328-62a3e04b-6521-4043-ae34-81d58c83d09e.jpg)
+![PCST-01-01](https://user-images.githubusercontent.com/89359094/149028740-a69c9d8b-ffa8-41ec-b856-42e60ab04983.jpg)
 Designer: Kimya
 
 This desktop app provides following features:
