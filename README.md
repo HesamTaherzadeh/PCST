@@ -1,5 +1,18 @@
 # PCST
-Photogrammetric Coordinate System Transformer, in short PCST, is a python based GUI program, that intends to help photogrammetrist and computer vision analyst, rapidly pick the best model and it's parameter on their data
+
+![PCST-01](https://user-images.githubusercontent.com/89359094/149028328-62a3e04b-6521-4043-ae34-81d58c83d09e.jpg)
+Designer: Kimya
+
+This desktop app provides following features:
+- Showing a relative map of your image and ground coordinates
+- Clustering your data with K-means, this way you can easily pickout ICPS from your clusters
+- Linear Conformal Transformation
+- Affine Transformation
+- Global Polynomial Transformation
+- Multi Quadric Adjustment on GP
+- Pointwise Adjustment on GP (You can pickout the number of effective points and the way of choosing them (Picking the nearest or dividing the whole map into four quadrants with the target point as its center and picking from each quadrant) and averaging methods (Weighted distance and moving average)
+- Direct linear Transformation (beta)
+- Showing the residual vector map, RMSE and MAE
 
 Below you can see some parts of the app's interface, which is simple and the work is mostly focused on the alghorithms
 
@@ -18,16 +31,7 @@ Below you can see some parts of the app's interface, which is simple and the wor
    figure3 - Residual vector map
 </p>
 
-This desktop app provides following features:
-- Showing a relative map of your image and ground coordinates
-- Clustering your data with K-means, this way you can easily pickout ICPS from your clusters
-- Linear Conformal Transformation
-- Affine Transformation
-- Global Polynomial Transformation
-- Multi Quadric Adjustment on GP
-- Pointwise Adjustment on GP (You can pickout the number of effective points and the way of choosing them (Picking the nearest or dividing the whole map into four quadrants with the target point as its center and picking from each quadrant) and averaging methods (Weighted distance and moving average)
-- Direct linear Transformation (beta)
-- Showing the residual vector map, RMSE and MAE
+
 
 
 # Some primitive photogrammetric definitions:
