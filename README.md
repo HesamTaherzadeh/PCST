@@ -1,7 +1,6 @@
 # PCST
 
 ![PCST - Compressed-01](https://user-images.githubusercontent.com/89359094/149029187-36270906-b88c-4636-bcf5-9f0cf2b34bd4.jpg)
-Designer: Kimya
 
 This desktop app provides following features:
 - Showing a relative map of your image and ground coordinates
